@@ -64,8 +64,8 @@ console.log(a,b,v,z)*/
   
   //Задание 6
 
-  /*a = "Кирилл"
-  b = "Пачин"
+  /*a = "Александр"
+  b = "Ныч"
 console.log(a,b)
 
  c = "Java"
@@ -75,6 +75,7 @@ console.log(c+d)
  e = "Hello"
   f = "World"
 console.log(e,f)*/
+
 
 
 
